@@ -41,8 +41,13 @@ public:
         if (nums.empty() == 1){return 0;}
 
         int size = nums.size();
-        int totalSum = sum(nums);
+        int totalSum = 0;
         int leftSum = 0;
+
+        // sum the nums vector
+        for(int i = 0; i < size; i++) {
+            totalSum += nums[i];
+        }
 
         for(int i = 0; i < size; i++){
             if(leftSum == totalSum -leftSum - nums[i]) {
@@ -51,16 +56,5 @@ public:
             leftSum += nums[i];
         }
         return -1;
-    }
-
-    int sum(vector<int>& nums) {
-        int size = nums.size();
-        int sum = 0;
-        for(int i = 0; i < size; i++) {
-            sum += nums[i];
-        }
-        return sum;
-        
-        
     }
 };
