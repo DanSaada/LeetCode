@@ -11,6 +11,7 @@ My solutions to LeetCode problems.
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FindPivotIndex.cpp)|Easy| Beats 95.96% of C++ submissions |
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LengthOfLastWord.cpp)|Easy| Beats 100% of C++ submissions |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber.cpp)|Easy| Beats 100% of C++ submissions |
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber.cpp)|Easy| Beats 100% of C++ submissions |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum.cpp)|Easy| Beats 99.26% of C++ submissions |
 
 
