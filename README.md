@@ -16,6 +16,7 @@ My solutions to LeetCode problems.
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LengthOfLastWord.cpp)|Easy| Beats 100% of C++ submissions |
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/MergeIntervals.c)|Medium| Beats 98.90% of C submissions |
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/MaximumSubarray.c)|Medium| Beats 95.74% of C submissions |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/GenerateParentheses.c)|Medium| Beats 100% of C submissions |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber.cpp)|Easy| Beats 100% of C++ submissions |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/AddTwoNumbers.c)|Medium| Beats 93.02% of C submissions |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.cpp), [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.c)|Easy| Beats 99.26% of C++ and 96.85% of C submissions|
