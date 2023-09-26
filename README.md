@@ -13,6 +13,7 @@ My solutions to LeetCode problems.
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/DegreeOfAnArray.cpp)|Easy| Beats 99.27% of C++ submissions |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleAnArray.c)|Medium| Beats 100% of C submissions |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/InvertBinaryTree.c)|Easy| Beats 100% of C submissions |
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/BalancedBinaryTree.c)|Easy| Beats 94.14% of C submissions |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ValidateBinarySearchTree.c)|Medium| Beats 100% of C submissions |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ClimbingStairs.c)|Easy| Beats 100% of C submissions |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/Sqrt(x).c)|Easy| Beats 100% of C submissions |
