@@ -14,6 +14,7 @@ My solutions to LeetCode problems.
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FibonacciNumber.c)|Easy| Beats 100% of C submissions |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleAnArray.c)|Medium| Beats 100% of C submissions |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/CountingBits.c)|Easy| Beats 99.76% of C submissions |
+|268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/MissingNumber.c)|Easy| Beats 100% of C submissions |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/InvertBinaryTree.c)|Easy| Beats 100% of C submissions |
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/IntersectionOfTwoLinkedLists.c)|Easy| Beats 99.87% of C submissions |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LinkedListCycle.c)|Easy| Beats 100% of C submissions |
