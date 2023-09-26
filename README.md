@@ -18,6 +18,7 @@ My solutions to LeetCode problems.
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/BalancedBinaryTree.c)|Easy| Beats 94.14% of C submissions |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SymmetricTree.c)|Easy| Beats 100% of C submissions |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ValidateBinarySearchTree.c)|Medium| Beats 100% of C submissions |
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SetMatrixZeroes.c)|Medium| Beats 97.44% of C submissions |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ClimbingStairs.c)|Easy| Beats 100% of C submissions |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/Sqrt(x).c)|Easy| Beats 100% of C submissions |
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LengthOfLastWord.cpp)|Easy| Beats 100% of C++ submissions |
