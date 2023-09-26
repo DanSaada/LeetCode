@@ -11,6 +11,7 @@ My solutions to LeetCode problems.
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleTheArray.c)|Easy| Beats 97.28% of C submissions |
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FindPivotIndex.cpp)|Easy| Beats 95.96% of C++ submissions |
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/DegreeOfAnArray.cpp)|Easy| Beats 99.27% of C++ submissions |
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FibonacciNumber.c)|Easy| Beats 100% of C submissions |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleAnArray.c)|Medium| Beats 100% of C submissions |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/CountingBits.c)|Easy| Beats 99.76% of C submissions |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/InvertBinaryTree.c)|Easy| Beats 100% of C submissions |
