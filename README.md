@@ -15,6 +15,7 @@ My solutions to LeetCode problems.
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleAnArray.c)|Medium| Beats 100% of C submissions |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/CountingBits.c)|Easy| Beats 99.76% of C submissions |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/InvertBinaryTree.c)|Easy| Beats 100% of C submissions |
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/IntersectionOfTwoLinkedLists.c)|Easy| Beats 99.87% of C submissions |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/BalancedBinaryTree.c)|Easy| Beats 94.14% of C submissions |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SymmetricTree.c)|Easy| Beats 100% of C submissions |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ValidateBinarySearchTree.c)|Medium| Beats 100% of C submissions |
