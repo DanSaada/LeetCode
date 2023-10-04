@@ -34,7 +34,7 @@ My solutions to LeetCode problems.
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/MaximumSubarray.c)|Medium| Beats 95.74% of C submissions |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/GenerateParentheses.c)|Medium| Beats 100% of C submissions |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber.cpp), [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber/PalindromeNumber.c)|Easy| Beats 100% of C++ and C submissions |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/AddTwoNumbers.c)|Medium| Beats 93.02% of C submissions |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/AddTwoNumbers.c), [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/AddTwoNumbers.java)|Medium| Beats 93.02% of C and 100% of Java submissions |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.cpp), [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.c), [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.java)|Easy| Beats 99.26% of C++, 96.85% of C and 99.39% of Java submissions|
 
 
