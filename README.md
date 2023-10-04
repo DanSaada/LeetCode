@@ -6,7 +6,7 @@ My solutions to LeetCode problems.
 
 
 | # | Title | Solution | Difficulty | Time Complexity |
-|---| ----- | -------- | ---------- | --------------- |
+|---| ----- | ----------- | ---------- | --------------- |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/RunningSumOf1DArray.cpp)|Easy| Beats 100% of C++ submissions |
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleTheArray.c)|Easy| Beats 97.28% of C submissions |
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FindPivotIndex.cpp)|Easy| Beats 95.96% of C++ submissions |
@@ -35,7 +35,7 @@ My solutions to LeetCode problems.
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/GenerateParentheses.c)|Medium| Beats 100% of C submissions |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber.cpp), [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PalindromeNumber/PalindromeNumber.c)|Easy| Beats 100% of C++ and C submissions |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/AddTwoNumbers.c)|Medium| Beats 93.02% of C submissions |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.cpp), [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.c)|Easy| Beats 99.26% of C++ and 96.85% of C submissions|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.cpp), [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.c), [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/TwoSum/TwoSum.java)|Easy| Beats 99.26% of C++, 96.85% of C and 99.39% of Java submissions|
 
 
 
