@@ -6,7 +6,7 @@ My solutions to LeetCode problems.
 
 
 | # | Title | Solution | Difficulty | Time Complexity |
-|---| ----- | ---------- | ---------- | --------------- |
+|---| ----- | ----------- | ---------- | --------------- |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/RunningSumOf1DArray.cpp)|Easy| Beats 100% of C++ submissions |
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleTheArray.c)|Easy| Beats 97.28% of C submissions |
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FindPivotIndex.cpp)|Easy| Beats 95.96% of C++ submissions |
