@@ -27,6 +27,7 @@ My solutions to LeetCode problems.
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/BinaryTreeZigzagTraversal.java)|Medium| Beats 100% of Java submissions |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SymmetricTree.c)|Easy| Beats 100% of C submissions |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ValidateBinarySearchTree.c)|Medium| Beats 100% of C submissions |
+|86|[Partition List](https://leetcode.com/problems/partition-list/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/PartitionList.java)|Medium| Beats 100% of Java submissions |
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SetMatrixZeroes.c)|Medium| Beats 97.44% of C submissions |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ClimbingStairs.c)|Easy| Beats 100% of C submissions |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/Sqrt(x).c)|Easy| Beats 100% of C submissions |
