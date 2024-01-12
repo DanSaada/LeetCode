@@ -9,6 +9,7 @@ My solutions to LeetCode problems.
 |---| ----- | ----------- | ---------- | --------------- |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/RunningSumOf1DArray.cpp)|Easy| Beats 100% of C++ submissions |
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleTheArray.c)|Easy| Beats 97.28% of C submissions |
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FindNUniqueIntegersSumUpToZero.java)|Easy| Beats 100% of Java submissions |
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FindPivotIndex.cpp)|Easy| Beats 95.96% of C++ submissions |
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/DegreeOfAnArray.cpp)|Easy| Beats 99.27% of C++ submissions |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FibonacciNumber.c), [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FibonacciNumber/FibonacciNumber.java) |Easy| Beats 100% of C and Java submissions |
