@@ -24,6 +24,7 @@ My solutions to LeetCode problems.
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LinkedListCycle.c)|Easy| Beats 100% of C submissions |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ValidPalindrome.java)|Easy| Beats 99.40% of Java submissions |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/BalancedBinaryTree.c)|Easy| Beats 94.14% of C submissions |
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/BinaryTreeZigzagTraversal.java)|Medium| Beats 100% of Java submissions |
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SymmetricTree.c)|Easy| Beats 100% of C submissions |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ValidateBinarySearchTree.c)|Medium| Beats 100% of C submissions |
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/SetMatrixZeroes.c)|Medium| Beats 97.44% of C submissions |
