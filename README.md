@@ -17,6 +17,7 @@ My solutions to LeetCode problems.
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FibonacciNumber.c), [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/FibonacciNumber/FibonacciNumber.java) |Easy| Beats 100% of C and Java submissions |
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/AddStrings.c)|Easy| Beats 100% of C submissions |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleAnArray.c)|Medium| Beats 100% of C submissions |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ReverseString.java)|Easy| Beats 100% of Java submissions |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/CountingBits.c)|Easy| Beats 99.76% of C submissions |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LongestIncreasingSubsequence.java)|Medium| Beats 99.48% of Java submissions |
 |268|[Missing Number](https://leetcode.com/problems/missing-number/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/MissingNumber.c)|Easy| Beats 100% of C submissions |
