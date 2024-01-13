@@ -7,6 +7,7 @@ My solutions to LeetCode problems.
 
 | # | Title | Solution | Difficulty | Time Complexity |
 |---| ----- | ----------- | ---------- | --------------- |
+|2309|[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/GreatestEnglishLetterInUpperAndLowerCase.java)|Easy| Beats 100% of Java submissions |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/RunningSumOf1DArray.cpp)|Easy| Beats 100% of C++ submissions |
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/ShuffleTheArray.c)|Easy| Beats 97.28% of C submissions |
 |1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [Java](https://github.com/DanSaada/LeetCode/blob/main/Algorithms/LongestHappyString.java)|Medium| Beats 100% of Java submissions |
