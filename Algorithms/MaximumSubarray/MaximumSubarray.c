@@ -21,15 +21,17 @@ Constraints:
 1 <= nums.length <= 105
 -104 <= nums[i] <= 104*/
 
-int maxSubArray(int* nums, int numsSize){
-    int sum = 0, max = INT_MIN;
+int maxSubArray(int arr[], int size) {
+    int maxSoFar = arr[0], maxEndingHere = arr[0];
 
-    for (int i = 0; i < numsSize; i++) {
-        sum += nums[i];
-        max =  sum > max ? sum : max;
-        if (sum < 0) {
-            sum = 0;
+    for (int i = 1; i < size; i++) {
+        maxEndingHere = maxEndingHere + arr[i];
+        if (maxEndingHere < arr[i]) {
+            maxEndingHere = arr[i];
+        }
+        if (maxSoFar < maxEndingHere) {
+            maxSoFar = maxEndingHere;
         }
     }
-    return max;
+    return maxSoFar;
 }
